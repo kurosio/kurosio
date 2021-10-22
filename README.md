@@ -8,8 +8,6 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ Whaaaat ~ 🦊 </h2>
-<img src="https://c.tenor.com/dTgqu4CcSKEAAAAC/cry-sad.gif" align="right">
-
 <p align="center">
 <a href="https://github.com/kurosio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kurosio&count_private=true&theme=vue&show_icons=true" />
