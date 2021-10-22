@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**kurosio/kurosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+<h1 align="center">~ 💖 Welcome to my profile bobie 💖 ~</h1>
+<br>
+<div align="center">
+<img src="https://pbs.twimg.com/media/E-4pusnVUAQoSQ5.jpg" alt="Sublime's custom image"/>
+</div>
+<br>
+<div>
+<h2 align="center"> 🦊 ~ Whaaaat ~ 🦊 </h2>
+<img src="https://c.tenor.com/dTgqu4CcSKEAAAAC/cry-sad.gif" align="right">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/kurosio">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kurosio&count_private=true&theme=vue&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurosio&layout=compact" />
+</a>
+</p>
+<br>
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ Thanks and die bobie! ~ 💖</h2>
+<div align="center">
+<img src="https://c.tenor.com/VrWzG0RWmRQAAAAC/anime-punch.gif">
+</div>
+<hr>
+</div>
+</div>
+</body>
