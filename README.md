@@ -1,9 +1,9 @@
 
 <body>
-<h1 align="center">~ 💖 Welcome to my profile bobie 💖 ~</h1>
+<h1 align="center">~ 💖 Welcome to my teeworlds profile bobie 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://pbs.twimg.com/media/E-4pusnVUAQoSQ5.jpg" alt="Sublime's custom image"/>
+<img src="https://i.ytimg.com/vi/QkNg1mlXH-4/maxresdefault.jpg" alt="Sublime's custom image"/>
 </div>
 <br>
 <div>
